@@ -3,9 +3,11 @@
 ## Data Rules
 
 - Use official university sources for admission requirements and deadlines.
+- Use official university organization, faculty, or school pages for department lists.
 - Use public academic profile pages for professor links and citation counts.
 - Prefer one row per program when deadlines differ by degree or intake.
 - Keep university names consistent across all CSV and Excel files.
+- Keep unit names exactly as written by the university where possible.
 - Keep department names as written by the university where possible.
 - Record `last_verified` every time data is updated.
 - Record `citation_source` and `citation_last_checked` whenever citation data is added.

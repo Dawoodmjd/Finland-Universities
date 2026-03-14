@@ -205,6 +205,7 @@ $masterSheets = @(
     @{ Name = "Overview"; CsvPath = (Join-Path $repoRoot "data\master\universities_overview.csv") },
     @{ Name = "Deadlines"; CsvPath = (Join-Path $repoRoot "data\master\application_deadlines.csv") },
     @{ Name = "Documents"; CsvPath = (Join-Path $repoRoot "data\master\required_documents.csv") },
+    @{ Name = "Departments"; CsvPath = (Join-Path $repoRoot "data\master\departments_master.csv") },
     @{ Name = "Professors"; CsvPath = (Join-Path $repoRoot "data\master\professors_master.csv") }
 )
 
@@ -219,6 +220,7 @@ foreach ($dir in $universityDirs) {
         @{ Name = "UniversityInfo"; CsvPath = (Join-Path $dir.FullName "university_info.csv") },
         @{ Name = "Deadlines"; CsvPath = (Join-Path $dir.FullName "deadlines.csv") },
         @{ Name = "Documents"; CsvPath = (Join-Path $dir.FullName "required_documents.csv") },
+        @{ Name = "Departments"; CsvPath = (Join-Path $dir.FullName "departments.csv") },
         @{ Name = "Professors"; CsvPath = (Join-Path $dir.FullName "professors.csv") }
     )
 

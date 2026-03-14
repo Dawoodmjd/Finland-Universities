@@ -1,7 +1,10 @@
 university_name,professor_name,source_type,source_url,notes,last_verified
 Aalto University,Antti Oulasvirta,Official profile,https://www.aalto.fi/en/people/antti-oulasvirta,Used for title department email and research areas.,2026-03-14
 Aalto University,Antti Oulasvirta,Citation summary,https://research.com/u/antti-oulasvirta,Used only as a citation-count fallback because Google Scholar profile access is blocked to automation.,2026-03-14
+Aalto University,Samuel Kaski,Official profile,https://www.aalto.fi/en/people/samuel-kaski,Official Aalto profile used for department and research fields.,2026-03-14
+Aalto University,Aristides Gionis,Official profile,https://www.aalto.fi/en/people/aristides-gionis,Official Aalto profile used for department and research fields.,2026-03-14
 University of Helsinki,Jukka K Nurminen,Official profile,https://researchportal.helsinki.fi/en/persons/jukka-k-nurminen/,University research portal profile includes direct Google Scholar link and research description.,2026-03-14
+University of Helsinki,Mikko Koivisto,Official profile,https://www.helsinki.fi/en/people/mikko-koivisto,Official profile used for title and research fields.,2026-03-14
 University of Helsinki,Hannu Toivonen,Official group page,https://www.helsinki.fi/en/researchgroups/computational-creativity-and-data-mining/people/hannu-toivonen,Official page states Google Scholar citation and h-index approximations.,2026-03-14
 Tampere University,Juho Hamari,Official research group page,https://research.tuni.fi/gameful-realities/gamification-group/,Official page includes direct Google Scholar and ResearchGate links and a 50000+ citation statement.,2026-03-14
 Tampere University,Juho Hamari,ResearchGate,https://www.researchgate.net/profile/Juho-Hamari,ResearchGate page confirms public profile and shows RG citation metrics separately.,2026-03-14
@@ -15,6 +18,7 @@ LUT University,Zhisong Liu,Official profile,https://www.lut.fi/en/profiles/zhiso
 University of Eastern Finland,Pauli Miettinen,Official profile,https://www.uef.fi/en/person/pauli.miettinen,Official UEF profile used for school and research description.,2026-03-14
 University of Eastern Finland,Markku Tukiainen,Official profile,https://www.uef.fi/en/person/markku.tukiainen,Official UEF profile used for school and research description.,2026-03-14
 University of Eastern Finland,Ville Hautamaki,Official profile,https://www.uef.fi/en/person/ville.hautamaki,Official UEF profile used for school and research description.,2026-03-14
+University of Eastern Finland,Pasi Franti,Official profile,https://www.uef.fi/en/person/pasi.franti,Official UEF profile used for school and research fields.,2026-03-14
 University of Jyvaskyla,Michael Emmerich,Official profile,https://www.jyu.fi/en/people/michael-emmerich,Official JYU profile used for title and research topics.,2026-03-14
 University of Jyvaskyla,Vagan Terziyan,Official profile,https://www.jyu.fi/en/people/vagan-terziyan,Official JYU profile used for title and research topics.,2026-03-14
 University of Vaasa,Tero Vartiainen,Official profile,https://www.uwasa.fi/en/person/tero-vartiainen,Official University of Vaasa profile used for title and research description.,2026-03-14

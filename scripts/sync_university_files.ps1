@@ -32,6 +32,7 @@ function Write-CsvFile {
 $overview = @(Import-Csv (Join-Path $repoRoot "data\master\universities_overview.csv"))
 $deadlines = @(Import-Csv (Join-Path $repoRoot "data\master\application_deadlines.csv"))
 $documents = @(Import-Csv (Join-Path $repoRoot "data\master\required_documents.csv"))
+$departments = @(Import-Csv (Join-Path $repoRoot "data\master\departments_master.csv"))
 $professors = @(Import-Csv (Join-Path $repoRoot "data\master\professors_master.csv"))
 $templateDir = Join-Path $universitiesRoot "_template"
 
@@ -43,6 +44,7 @@ foreach ($university in $overview) {
     Write-CsvFile -Path (Join-Path $targetDir "university_info.csv") -Rows @($university)
     Write-CsvFile -Path (Join-Path $targetDir "deadlines.csv") -Rows @($deadlines | Where-Object { $_.university_name -eq $university.university_name })
     Write-CsvFile -Path (Join-Path $targetDir "required_documents.csv") -Rows @($documents | Where-Object { $_.university_name -eq $university.university_name })
+    Write-CsvFile -Path (Join-Path $targetDir "departments.csv") -Rows @($departments | Where-Object { $_.university_name -eq $university.university_name })
 
     $professorRows = @($professors | Where-Object { $_.university_name -eq $university.university_name })
     if ($professorRows.Count -eq 0) {
