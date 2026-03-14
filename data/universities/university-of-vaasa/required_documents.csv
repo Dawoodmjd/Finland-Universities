@@ -1,2 +1,6 @@
-university_name,degree_level,program_name,document_name,required,notes,source_url,last_verified
-University of Vaasa,Master,,Passport,Yes,,https://www.uwasa.fi/en/education/applying,2026-03-14
+"university_name","degree_level","program_name","document_name","required","notes","source_url","last_verified"
+"University of Vaasa","Master","Joint application round","Degree certificate","If graduated","High-quality scan of original degree certificate is required.","https://www.uwasa.fi/en/education/international-masters-programmes/application-process","2026-03-14"
+"University of Vaasa","Master","Joint application round","Transcript of records","Yes","Grading system explanation is mandatory if not clearly stated in the transcript.","https://www.uwasa.fi/en/education/international-masters-programmes/application-process","2026-03-14"
+"University of Vaasa","Master","Joint application round","Official translations","If needed","Required for degree certificate and transcript if documents are not in English Finnish or Swedish.","https://www.uwasa.fi/en/education/international-masters-programmes/application-process","2026-03-14"
+"University of Vaasa","Master","Joint application round","Proof of language proficiency","Yes","Accepted according to programme admissions criteria.","https://www.uwasa.fi/en/education/international-masters-programmes/application-process","2026-03-14"
+"University of Vaasa","Master","Joint application round","Passport or official ID","Yes","Residence permit card copy also needed if applying for tuition fee exemption based on permit status.","https://www.uwasa.fi/en/education/international-masters-programmes/application-process","2026-03-14"

@@ -1,2 +1,3 @@
-university_name,degree_level,program_name,intake,application_open_date,application_deadline,scholarship_deadline,source_url,notes,last_verified
-Hanken School of Economics,Master,,Autumn,,,,https://www.hanken.fi/en/apply,Verify annual deadlines,2026-03-14
+"university_name","degree_level","program_name","intake","application_open_date","application_deadline","scholarship_deadline","source_url","notes","last_verified"
+"Hanken School of Economics","Master","Main Admission round","Autumn","2026-01-07","2026-01-21","","https://www.hanken.fi/en/apply/application/masters-degree-studies-english/main-admission-round/application-process-step-step","Attachment deadline 2026-01-28; all results published by 2026-05-27.","2026-03-14"
+"Hanken School of Economics","Master","Rolling Admission round","Autumn","2025-12-08","2026-04-15","","https://www.hanken.fi/index.php/en/apply/application/masters-degree-studies-english","Rolling Admission is limited to selected programmes and applicants with bachelor's degrees in economic sciences obtained outside Finland.","2026-03-14"

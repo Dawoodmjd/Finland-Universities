@@ -1,2 +1,5 @@
-university_name,degree_level,program_name,document_name,required,notes,source_url,last_verified
-University of Jyvaskyla,Master,,Passport,Yes,,https://www.jyu.fi/en/apply,2026-03-14
+"university_name","degree_level","program_name","document_name","required","notes","source_url","last_verified"
+"University of Jyvaskyla","Master","English-taught master's degree programmes","Admission criteria review","Yes","Applicants must read the programme admission criteria before applying.","https://www.jyu.fi/en/study-with-us/masters-degree-programmes/how-to-apply-for-masters-programmes","2026-03-14"
+"University of Jyvaskyla","Master","English-taught master's degree programmes","Transcript of records","Yes","For unfinished degrees applicants submit the transcript of completed studies to date.","https://www.jyu.fi/en/study-with-us/masters-degree-programmes/how-to-apply-for-masters-programmes","2026-03-14"
+"University of Jyvaskyla","Master","English-taught master's degree programmes","Proof of language skills","Yes","Language test or other accepted proof must be ready before the attachment deadline.","https://www.jyu.fi/en/study-with-us/masters-degree-programmes/how-to-apply-for-masters-programmes","2026-03-14"
+"University of Jyvaskyla","Master","English-taught master's degree programmes","Programme-specific attachments","Check programme","GMAT GRE or other programme criteria may apply depending on the programme.","https://www.jyu.fi/en/study-with-us/masters-degree-programmes/how-to-apply-for-masters-programmes","2026-03-14"

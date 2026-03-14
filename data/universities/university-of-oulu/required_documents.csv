@@ -1,2 +1,7 @@
-university_name,degree_level,program_name,document_name,required,notes,source_url,last_verified
-University of Oulu,Master,,Passport,Yes,,https://www.oulu.fi/en/apply,2026-03-14
+"university_name","degree_level","program_name","document_name","required","notes","source_url","last_verified"
+"University of Oulu","Master","International master's programmes","Proof of language skills","Yes","Language proof must be attached during the application period.","https://www.oulu.fi/en/apply/how-apply/documents","2026-03-14"
+"University of Oulu","Master","International master's programmes","Transcript of records","Yes","Copy of transcript required for all applicants.","https://www.oulu.fi/en/apply/how-apply/documents","2026-03-14"
+"University of Oulu","Master","International master's programmes","Degree certificate","If graduated","Copy required if degree already completed.","https://www.oulu.fi/en/apply/how-apply/documents","2026-03-14"
+"University of Oulu","Master","International master's programmes","Official translations","If needed","Required if original documents are not in Finnish Swedish or English.","https://www.oulu.fi/en/apply/how-apply/documents","2026-03-14"
+"University of Oulu","Master","International master's programmes","Passport or identity card","Yes","Identification document must be attached to the application.","https://www.oulu.fi/en/apply/how-apply/documents","2026-03-14"
+"University of Oulu","Master","International master's programmes","Programme-specific attachments","Check programme","Examples include motivation letter GMAT GRE CV ACT SAT or video depending on programme.","https://www.oulu.fi/en/apply/how-apply/documents","2026-03-14"

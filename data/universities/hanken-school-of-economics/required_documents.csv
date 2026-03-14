@@ -1,2 +1,7 @@
-university_name,degree_level,program_name,document_name,required,notes,source_url,last_verified
-Hanken School of Economics,Master,,Passport,Yes,,https://www.hanken.fi/en/apply,2026-03-14
+"university_name","degree_level","program_name","document_name","required","notes","source_url","last_verified"
+"Hanken School of Economics","Master","Main Admission round","Degree certificate","Yes","Diploma supplement is part of the requested educational documents when available.","https://www.hanken.fi/en/apply/application/masters-degree-studies-english/attachments","2026-03-14"
+"Hanken School of Economics","Master","Main Admission round","Transcript of records","Yes","Official translations are required if documents are not in English Finnish or Swedish.","https://www.hanken.fi/en/apply/application/masters-degree-studies-english/attachments","2026-03-14"
+"Hanken School of Economics","Master","Main Admission round","GPA or GMAT GRE report","Check programme","Hanken requests GPA or GMAT or GRE documentation depending on programme and track.","https://www.hanken.fi/en/apply/application/masters-degree-studies-english/attachments","2026-03-14"
+"Hanken School of Economics","Master","Main Admission round","Certificate of language proficiency","Yes","Submit as high-quality scanned PDF.","https://www.hanken.fi/en/apply/application/masters-degree-studies-english/attachments","2026-03-14"
+"Hanken School of Economics","Master","Main Admission round","CV in English","Conditional","Required in main admission and for selected rolling-admission tracks.","https://www.hanken.fi/en/apply/application/masters-degree-studies-english/attachments","2026-03-14"
+"Hanken School of Economics","Master","Main Admission round","Passport or EU identity card","Yes","Residence permit copy is needed where applicable.","https://www.hanken.fi/en/apply/application/masters-degree-studies-english/attachments","2026-03-14"

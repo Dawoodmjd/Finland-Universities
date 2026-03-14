@@ -1,2 +1,6 @@
-university_name,degree_level,program_name,document_name,required,notes,source_url,last_verified
-University of Turku,Master,,Passport,Yes,,https://www.utu.fi/en/study-at-utu/apply,2026-03-14
+"university_name","degree_level","program_name","document_name","required","notes","source_url","last_verified"
+"University of Turku","Master","International master's degree programmes","Degree certificate","If graduated","Attach scans of original degree certificate and official translation if needed.","https://www.utu.fi/en/study-at-utu/apply-to-masters-programmes","2026-03-14"
+"University of Turku","Master","International master's degree programmes","Transcript of records","Yes","Most recent transcript is accepted if the applicant has not yet graduated.","https://www.utu.fi/en/study-at-utu/apply-to-masters-programmes","2026-03-14"
+"University of Turku","Master","International master's degree programmes","Proof of language skills","Yes","Language proof options are listed on the UTU language requirements page referenced from the application guide.","https://www.utu.fi/en/study-at-utu/apply-to-masters-programmes","2026-03-14"
+"University of Turku","Master","International master's degree programmes","Passport or identity card","Yes","Residence permit card also required if applying for fee exemption based on permit.","https://www.utu.fi/en/study-at-utu/apply-to-masters-programmes","2026-03-14"
+"University of Turku","Master","International master's degree programmes","Programme-specific documents","Check programme","Examples include motivation letters self-introduction videos or other programme-specific materials.","https://www.utu.fi/en/study-at-utu/apply-to-masters-programmes","2026-03-14"

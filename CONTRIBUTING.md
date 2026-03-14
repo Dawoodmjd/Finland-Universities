@@ -8,6 +8,7 @@
 - Keep university names consistent across all CSV and Excel files.
 - Keep department names as written by the university where possible.
 - Record `last_verified` every time data is updated.
+- Record `citation_source` and `citation_last_checked` whenever citation data is added.
 
 ## Formatting Rules
 
@@ -33,4 +34,5 @@ data/universities/university-of-helsinki/
 - Dates use the correct format
 - Links are complete URLs
 - Citation counts were checked recently
+- Citation sources are recorded when citations are present
 - `last_verified` was updated

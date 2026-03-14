@@ -12,7 +12,7 @@ It is designed to help collect and maintain:
 - research areas
 - ResearchGate profiles
 - Google Scholar profiles
-- citation counts
+- citation counts and verification notes
 
 ## Repository Structure
 
@@ -23,6 +23,9 @@ data/
     application_deadlines.csv
     required_documents.csv
     professors_master.csv
+  sources/
+    admissions_sources.csv
+    professor_sources.csv
   universities/
     _template/
       university_info.csv
@@ -62,6 +65,12 @@ CONTRIBUTING.md
 4. Keep the same records synchronized in the matching Excel workbook under `excel/universities/`.
 5. If you update CSV files in bulk, rerun `scripts/generate_excel.ps1` to regenerate the `.xlsx` files.
 
+## Current Coverage
+
+- Admissions data: verified 2026 application guidance for the Finland university set in this repository.
+- Required documents: university-level baseline requirements from official admissions pages. Programme-specific extras still need checking on each programme page.
+- Professor data: seeded with verified faculty examples and source tracking. This part is iterative because Google Scholar blocks automated retrieval and universities expose profile links inconsistently.
+
 ## Recommended Workflow
 
 For each university:
@@ -73,7 +82,7 @@ For each university:
 5. Add departments relevant to your target field.
 6. Record professor names, titles, and research areas.
 7. Add profile links for ResearchGate, Google Scholar, and the official university profile.
-8. Record citation counts, h-index if available, and the last verification date.
+8. Record citation counts, citation source, h-index if available, and the last verification date.
 
 ## Notes
 
@@ -82,6 +91,7 @@ For each university:
 - Keep dates in `YYYY-MM-DD` format.
 - Use official university pages for admission requirements and deadlines.
 - Use public academic profile pages for ResearchGate, Google Scholar, and citation data.
+- When citation counts cannot be verified automatically, leave the value blank and keep the source page in `data/sources/professor_sources.csv`.
 
 ## Suggested Next Steps
 

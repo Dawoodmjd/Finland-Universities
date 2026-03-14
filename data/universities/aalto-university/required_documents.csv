@@ -1,2 +1,5 @@
-university_name,degree_level,program_name,document_name,required,notes,source_url,last_verified
-Aalto University,Master,,Passport,Yes,,https://www.aalto.fi/en/study-options,2026-03-14
+"university_name","degree_level","program_name","document_name","required","notes","source_url","last_verified"
+"Aalto University","Master","University-wide international master's admissions","Degree certificate","If graduated","Upload with official translations when required.","https://www.aalto.fi/en/admission-services/masters-admissions","2026-03-14"
+"Aalto University","Master","University-wide international master's admissions","Transcript of records","Yes","Upload by 2026-01-09 if applying for autumn 2026 intake.","https://www.aalto.fi/en/admission-services/masters-admissions","2026-03-14"
+"Aalto University","Master","University-wide international master's admissions","Proof of language proficiency","Yes","Accepted methods are listed on Aalto language requirements page.","https://www.aalto.fi/en/admission-services/language-requirements-in-masters-admissions","2026-03-14"
+"Aalto University","Master","University-wide international master's admissions","Study-option-specific documents","Check programme","Programme page may require GRE or GMAT or portfolio depending on field.","https://www.aalto.fi/en/admission-services/masters-admissions","2026-03-14"

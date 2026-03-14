@@ -1,2 +1,5 @@
-university_name,degree_level,program_name,document_name,required,notes,source_url,last_verified
-University of Eastern Finland,Master,,Passport,Yes,,https://www.uef.fi/en/apply,2026-03-14
+"university_name","degree_level","program_name","document_name","required","notes","source_url","last_verified"
+"University of Eastern Finland","Master","Master's programmes taught in English","Degree certificate","If graduated","Temporary degree certificates are accepted at application stage.","https://www.uef.fi/en/how-to-apply","2026-03-14"
+"University of Eastern Finland","Master","Master's programmes taught in English","Transcript of records","Yes","Most recent transcript with translations must be uploaded by 2026-01-28 for foreign-degree applicants graduating later.","https://www.uef.fi/en/how-to-apply","2026-03-14"
+"University of Eastern Finland","Master","Master's programmes taught in English","Official translations","If needed","Required when educational documents are not in English Finnish or Swedish.","https://www.uef.fi/en/verification-of-official-educational-documents","2026-03-14"
+"University of Eastern Finland","Master","Master's programmes taught in English","Proof of language proficiency","Yes","Language proof must remain verifiable during the application period.","https://www.uef.fi/en/degree-programme/masters-degree-programme-in-english-language-and-culture","2026-03-14"

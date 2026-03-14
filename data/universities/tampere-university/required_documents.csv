@@ -1,2 +1,5 @@
-university_name,degree_level,program_name,document_name,required,notes,source_url,last_verified
-Tampere University,Master,,Passport,Yes,,https://www.tuni.fi/en/study-with-us/apply-to-tampere-university,2026-03-14
+"university_name","degree_level","program_name","document_name","required","notes","source_url","last_verified"
+"Tampere University","Master","University master's programmes","Degree certificate","If graduated","Completed-degree applicants must later submit officially certified documents by 2026-05-29.","https://www.tuni.fi/en/study-with-us/apply-to-tampere-university/applying-to-university-masters-programmes","2026-03-14"
+"Tampere University","Master","University master's programmes","Transcript of records","Yes","Latest transcript is accepted for unfinished degrees during the application phase.","https://www.tuni.fi/en/study-with-us/apply-to-tampere-university/applying-to-university-masters-programmes","2026-03-14"
+"Tampere University","Master","University master's programmes","Proof of language proficiency","Yes","Tampere requires proof of proficiency in the language of instruction.","https://www.tuni.fi/en/study-with-us/apply-to-tampere-university/applying-to-university-masters-programmes/faq-on-applying","2026-03-14"
+"Tampere University","Master","University master's programmes","Programme-specific documents","Check programme","Programme pages may require motivation letter CV portfolio or interview.","https://www.tuni.fi/en/study-with-us/apply-to-tampere-university/applying-to-university-masters-programmes","2026-03-14"

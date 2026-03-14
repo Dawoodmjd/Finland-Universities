@@ -1,0 +1,11 @@
+university_name,professor_name,source_type,source_url,notes,last_verified
+Aalto University,Antti Oulasvirta,Official profile,https://www.aalto.fi/en/people/antti-oulasvirta,Used for title department email and research areas.,2026-03-14
+Aalto University,Antti Oulasvirta,Citation summary,https://research.com/u/antti-oulasvirta,Used only as a citation-count fallback because Google Scholar profile access is blocked to automation.,2026-03-14
+University of Helsinki,Jukka K Nurminen,Official profile,https://researchportal.helsinki.fi/en/persons/jukka-k-nurminen/,University research portal profile includes direct Google Scholar link and research description.,2026-03-14
+University of Helsinki,Hannu Toivonen,Official group page,https://www.helsinki.fi/en/researchgroups/computational-creativity-and-data-mining/people/hannu-toivonen,Official page states Google Scholar citation and h-index approximations.,2026-03-14
+Tampere University,Juho Hamari,Official research group page,https://research.tuni.fi/gameful-realities/gamification-group/,Official page includes direct Google Scholar and ResearchGate links and a 50000+ citation statement.,2026-03-14
+Tampere University,Juho Hamari,ResearchGate,https://www.researchgate.net/profile/Juho-Hamari,ResearchGate page confirms public profile and shows RG citation metrics separately.,2026-03-14
+University of Turku,Jukka Heikkila,Official profile,https://www.utu.fi/en/people/jukka-heikkila,Official profile publishes direct Google Scholar and ResearchGate links in profile text.,2026-03-14
+University of Turku,Antti Airola,Official profile,https://www.utu.fi/en/people/antti-airola,Official profile publishes Google Scholar and ResearchGate references and biography summary.,2026-03-14
+University of Oulu,Harri Oinas-Kukkonen,Official profile,https://www.oulu.fi/en/researchers/harri-oinas-kukkonen,Official profile exposes ORCID Scopus Google Scholar and ResearchGate links.,2026-03-14
+University of Oulu,Heli Koskimaki,Official profile,https://www.oulu.fi/en/researchers/heli-koskimaki,Official profile exposes Google Scholar and ResearchGate links and research summary.,2026-03-14

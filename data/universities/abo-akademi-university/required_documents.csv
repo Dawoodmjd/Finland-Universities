@@ -1,2 +1,5 @@
-university_name,degree_level,program_name,document_name,required,notes,source_url,last_verified
-Abo Akademi University,Master,,Passport,Yes,,https://www.abo.fi/en/study/apply/,2026-03-14
+"university_name","degree_level","program_name","document_name","required","notes","source_url","last_verified"
+"Abo Akademi University","Master","International master's degree programmes","Degree certificate","If graduated","Upload scans of original documents and translations if needed.","https://www.abo.fi/en/study/apply/international-master-programmes/application-process/","2026-03-14"
+"Abo Akademi University","Master","International master's degree programmes","Transcript of records","Yes","If still graduating state expected graduation date and upload studies completed so far.","https://www.abo.fi/en/study/apply/international-master-programmes/application-process/","2026-03-14"
+"Abo Akademi University","Master","International master's degree programmes","Proof of language proficiency","Yes","Applicants must meet university and programme-specific language requirements.","https://www.abo.fi/en/study/apply/international-master-programmes/","2026-03-14"
+"Abo Akademi University","Master","International master's degree programmes","Scholarship application","Optional","Tuition-fee-paying applicants apply for scholarships through the application form where available.","https://www.abo.fi/en/study/apply/international-master-programmes/application-process/","2026-03-14"
