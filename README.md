@@ -1,0 +1,91 @@
+# Finland Universities Repository
+
+This repository is a free, GitHub-friendly database for tracking Finnish universities, application requirements, deadlines, and professor research profiles.
+
+It is designed to help collect and maintain:
+
+- required application documents
+- program deadlines
+- university application links
+- department names
+- professor names and titles
+- research areas
+- ResearchGate profiles
+- Google Scholar profiles
+- citation counts
+
+## Repository Structure
+
+```text
+data/
+  master/
+    universities_overview.csv
+    application_deadlines.csv
+    required_documents.csv
+    professors_master.csv
+  universities/
+    _template/
+      university_info.csv
+      deadlines.csv
+      required_documents.csv
+      professors.csv
+    aalto-university/
+    hanken-school-of-economics/
+    lut-university/
+    tampere-university/
+    university-of-eastern-finland/
+    university-of-helsinki/
+    university-of-jyvaskyla/
+    university-of-oulu/
+    university-of-turku/
+    university-of-vaasa/
+    abo-akademi-university/
+excel/
+  finland_universities_master.xlsx
+  universities/
+scripts/
+  generate_excel.ps1
+templates/
+  university_profile_template.md
+CONTRIBUTING.md
+```
+
+## How To Use
+
+1. Start with the CSV files in `data/master/` for a country-wide view.
+2. Use `data/universities/_template/` whenever you add another Finnish university.
+3. Fill each university folder with:
+   - `university_info.csv`
+   - `deadlines.csv`
+   - `required_documents.csv`
+   - `professors.csv`
+4. Keep the same records synchronized in the matching Excel workbook under `excel/universities/`.
+5. If you update CSV files in bulk, rerun `scripts/generate_excel.ps1` to regenerate the `.xlsx` files.
+
+## Recommended Workflow
+
+For each university:
+
+1. Confirm the official English university name and city.
+2. Record the official website and application portal.
+3. Add degree level, intake, and program-specific deadlines.
+4. List required documents exactly as requested by the university.
+5. Add departments relevant to your target field.
+6. Record professor names, titles, and research areas.
+7. Add profile links for ResearchGate, Google Scholar, and the official university profile.
+8. Record citation counts, h-index if available, and the last verification date.
+
+## Notes
+
+- CSV files open directly in Excel, Google Sheets, and LibreOffice.
+- The `excel/` folder is intended for users who prefer `.xlsx` workbooks.
+- Keep dates in `YYYY-MM-DD` format.
+- Use official university pages for admission requirements and deadlines.
+- Use public academic profile pages for ResearchGate, Google Scholar, and citation data.
+
+## Suggested Next Steps
+
+- Fill the master sheets with real data for the first 5 to 10 Finnish universities.
+- Review professor lists department by department.
+- Standardize research area keywords for easier filtering.
+- Recheck deadlines before every application cycle.
